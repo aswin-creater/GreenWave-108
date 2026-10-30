@@ -1,0 +1,6 @@
+{
+  "name": "AmbuWave Connect",
+  "description": "Emergency vehicle green-wave priority simulation platform connecting ambulance GPS tracking, traffic signal controllers, and city control room dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
